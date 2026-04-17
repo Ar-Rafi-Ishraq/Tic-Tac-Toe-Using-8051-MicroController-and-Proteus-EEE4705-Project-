@@ -7,4 +7,4 @@ The program handles player turns, input detection, game logic, and win/draw cond
 This project was developed as part of our microcontroller course EEE-4705 to showcase real-time interaction, digital logic implementation, and embedded system design.
 ## 🎥 Demonstration of our project
 
-[![YouTube Video Link](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=uIz5MVujZ2Y))
+[![YouTube Video Link](https://img.youtube.com/vi/uIz5MVujZ2Y/0.jpg)]([https://www.youtube.com/watch?v=uIz5MVujZ2Y](https://www.youtube.com/watch?v=uIz5MVujZ2Y))
